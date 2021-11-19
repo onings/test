@@ -10,5 +10,9 @@
 	<h1>gitTestProject오예!</h1>
 	<hr>
 	<p>내용추가</p>
+	<ul>
+		<li>목록1</li>
+		<li>목록2</li>
+	</ul>
 </body>
 </html>
